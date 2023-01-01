@@ -16,8 +16,8 @@ API_ID = "22652671"
 API_HASH = "c42c23dbe7e986eefb58deb05ab7b7af"
 BOT_TOKEN = "5842282445:AAFc67A6xEH3EP91dpOLtQzrFZkv9O7xTSU"
 SESSION = "BACTQDhYIzPIqY0liYOzKlFS1tWdpQ1jJH-MqXiXlcTXc-3hCDAJRuYLX1DZkT4UnRXun6Sz8YYogbNyIjy-57D3yrbSVPY8ETMGk6LKj6IToglHRRVmiAeThyei2oZnp9OPhRwrVk8i9H_Ywo2sIu4xMX5tK6XKJzPpV4Q-kLGmnMxfVa5geg9tkuto5K6nVhyiw_tvhxsEDl5lNXlRleMi-x7Qj0TjVGZIdJi0i47gkXJEVmxHTSgd5LJqzwXdXEvj82w3KvzItN0RysxAQkXuM9Gaw-rNmw1clHZZYvmYxIrAt1qvN_i9qFhW3ajyE9jfbtbhTPj7jBVg5tgcF9koAAAAAVw6J80B"
-FORCESUB = "@allopepdfasd"
-AUTH = "@josh_1200"
+FORCESUB = "https://t.me/allopepdfasd"
+AUTH = "josh_1200"
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
 
